@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "enrich": {
+      "type": "http",
+      "url": "https://www.tradego.ai/mcp"
+    }
+  }
+}

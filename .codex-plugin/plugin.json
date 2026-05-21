@@ -1,0 +1,13 @@
+{
+  "name": "enrich",
+  "displayName": "Enrich — Company Domain Intelligence",
+  "description": "Domain → company name, country, contacts, social profiles. Enterprise enrichment via Elasticsearch.",
+  "publisher": "yourcompany",
+  "version": "0.1.0",
+  "type": "mcp",
+  "mcp": {
+    "url": "https://www.tradego.ai/mcp"
+  },
+  "icon": "assets/icon.png",
+  "license": "MIT"
+}

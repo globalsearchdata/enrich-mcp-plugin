@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.venv
+rate_state.json
+access.log
+.DS_Store

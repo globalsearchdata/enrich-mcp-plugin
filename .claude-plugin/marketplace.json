@@ -1,0 +1,10 @@
+{
+  "name": "Enrich — Company Domain Intelligence",
+  "slug": "enrich",
+  "description": "Domain → company name, country, contacts, social profiles. Enterprise enrichment via Elasticsearch.",
+  "categories": ["data", "business-intelligence"],
+  "icon": "assets/icon.png",
+  "auth": {
+    "type": "none"
+  }
+}
