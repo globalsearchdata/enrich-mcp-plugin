@@ -1,4 +1,4 @@
-# Enrich MCP Plugin
+# Enrich MCP Server
 
 Domain → company intelligence for AI agents. Look up company name, country,
 contacts, and social profiles from any MCP-compatible client.
