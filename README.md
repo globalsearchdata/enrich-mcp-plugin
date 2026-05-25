@@ -60,6 +60,9 @@ README.md                  ← This file
 LICENSE
 ```
 
+
+[![smithery badge](https://smithery.ai/badge/globalsearchdata/enrich-mcp-plugin)](https://smithery.ai/servers/globalsearchdata/enrich-mcp-plugin)
+
 ## License
 
 MIT
