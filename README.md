@@ -43,7 +43,7 @@ claude mcp add enrich https://www.tradego.ai/mcp --transport http
 
 > "Look up stripe.com and tell me about the company"
 
-> "Find the company named Apollo and give me their contact info"
+> "Find the company named Tesla and give me their contact info"
 
 ## Prerequisites
 
