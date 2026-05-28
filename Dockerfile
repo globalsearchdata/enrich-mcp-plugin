@@ -11,4 +11,4 @@ COPY app.py es_client.py rate_limiter.py ./
 # In production, this is deployed separately at tradego.ai/mcp
 EXPOSE 8080
 
-CMD ["python", "app.py", "--stdio"]
+CMD ["python", "app.py"]
