@@ -1,7 +1,7 @@
 # Enrich MCP Server
 
-Domain → company intelligence for AI agents. Look up company name, country,
-contacts, and social profiles from any MCP-compatible client.
+Company intelligence for AI agents. Look up company name, country,
+contacts, and social profiles by domain or company name — from any MCP-compatible client.
 
 ## Connect
 
@@ -35,6 +35,7 @@ claude mcp add enrich https://www.tradego.ai/mcp --transport http
 | Tool | What it does |
 |------|-------------|
 | `enrich_company` | Domain → company name, country, contact emails, phone numbers, social profiles |
+| `enrich_company_by_name` | Company name → domain, country, contact emails, phone numbers, social profiles |
 
 ## Try Asking
 
@@ -42,7 +43,7 @@ claude mcp add enrich https://www.tradego.ai/mcp --transport http
 
 > "Look up stripe.com and tell me about the company"
 
-> "Find contact information for the team at github.com"
+> "Find the company named Apollo and give me their contact info"
 
 ## Prerequisites
 
